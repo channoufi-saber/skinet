@@ -13,3 +13,4 @@ C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\Infrastructure\obj\Debug\net9.
 C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
 C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json

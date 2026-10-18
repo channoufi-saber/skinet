@@ -156,3 +156,4 @@ C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\API\obj\Debug\net9.0\rjsmrazor
 C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
 C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\API\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\API\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\chann\OneDrive\Bureau\work\dotnet\skinet\API\obj\Debug\net9.0\API.sourcelink.json
