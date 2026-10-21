@@ -1,4 +1,5 @@
 
+using API.Middleware;
 using Core.Interfaces;
 using Infrastructure.Data;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
@@ -28,7 +29,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-
+app.UseCors(x =>x.AllowAnyHeader().AllowAnyMethod().WithOrigins("http://localhost:4200/", "https://localhost:4200/"));
+app.UseMiddleware<ExceptionMiddleware>();
 app.MapControllers();
 
 try
