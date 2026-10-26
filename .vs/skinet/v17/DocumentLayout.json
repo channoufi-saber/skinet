@@ -118,8 +118,7 @@
               "RelativeToolTip": "API\\Errors\\ApiException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T10:07:35.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T10:07:35.392Z"
             },
             {
               "$type": "Document",
@@ -131,8 +130,7 @@
               "RelativeToolTip": "Core\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T09:50:18.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T09:50:18.201Z"
             },
             {
               "$type": "Document",
@@ -144,8 +142,7 @@
               "RelativeToolTip": "API\\DTOs\\CreateProductDto.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAA0wBQAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-21T09:48:11.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T09:48:11.959Z"
             },
             {
               "$type": "Document",
@@ -157,8 +154,7 @@
               "RelativeToolTip": "API\\Middleware\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T10:46:58.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T10:46:58.396Z"
             },
             {
               "$type": "Document",
@@ -182,8 +178,7 @@
               "RelativeToolTip": "API\\Controllers\\BuggyControllercs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T10:14:09.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T10:14:09.467Z"
             },
             {
               "$type": "Document",
@@ -195,8 +190,7 @@
               "RelativeToolTip": "API\\Errors\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T10:34:57.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-20T10:34:57.025Z"
             },
             {
               "$type": "Document",
@@ -206,7 +200,7 @@
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAiwB8AAABgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T15:20:37.857Z",
               "EditorCaption": ""
