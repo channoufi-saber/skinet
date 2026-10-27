@@ -15,17 +15,6 @@ import { ShopParams } from './shared/models/shopParams';
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
-export class AppComponent implements OnInit {
- private shopService=inject(ShopService)
+export class AppComponent {
   title = 'skinet';
-  products: Product[] = [];
-  shopParams = new ShopParams();
-
-  ngOnInit(): void {
-    this.shopService.getProducts(this.shopParams).subscribe({
-      next: (response) => (this.products = response.data),
-      error: (error) => console.log(error),
-      complete: () => console.log(''),
-    });
-  }
 }
