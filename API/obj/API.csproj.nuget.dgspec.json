@@ -63,6 +63,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[3.4.20, )"
             }
           },
           "imports": [
@@ -242,6 +246,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[3.4.20, )"
             }
           },
           "imports": [
