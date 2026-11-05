@@ -1,12 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "+dhwHbDSwxc=",
+  "dgSpecHash": "AOQfNtWBuRg=",
   "success": true,
   "projectFilePath": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chann\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.19\\microsoft.netcore.app.ref.9.0.19.nupkg.sha512",
-    "C:\\Users\\chann\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.19\\microsoft.windowsdesktop.app.ref.9.0.19.nupkg.sha512",
-    "C:\\Users\\chann\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.19\\microsoft.aspnetcore.app.ref.9.0.19.nupkg.sha512"
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\10.0.14\\microsoft.aspnetcore.cryptography.internal.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\10.0.14\\microsoft.aspnetcore.cryptography.keyderivation.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.14\\microsoft.extensions.caching.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.14\\microsoft.extensions.configuration.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.14\\microsoft.extensions.configuration.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.14\\microsoft.extensions.configuration.binder.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.14\\microsoft.extensions.dependencyinjection.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.14\\microsoft.extensions.dependencyinjection.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.diagnostics\\10.0.14\\microsoft.extensions.diagnostics.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.14\\microsoft.extensions.diagnostics.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.identity.core\\10.0.14\\microsoft.extensions.identity.core.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.identity.stores\\10.0.14\\microsoft.extensions.identity.stores.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.logging\\10.0.14\\microsoft.extensions.logging.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.14\\microsoft.extensions.logging.abstractions.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.options\\10.0.14\\microsoft.extensions.options.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.14\\microsoft.extensions.options.configurationextensions.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.14\\microsoft.extensions.primitives.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.14\\system.diagnostics.diagnosticsource.10.0.14.nupkg.sha512",
+    "C:\\Users\\chann\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
   ],
   "logs": []
 }

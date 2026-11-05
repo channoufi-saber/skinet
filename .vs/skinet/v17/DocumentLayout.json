@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\extensions\\addressmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\extensions\\addressmappingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2CEA22-DBF8-41C1-B9AB-7C100FA75E27}|Core\\Core.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\core\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2CEA22-DBF8-41C1-B9AB-7C100FA75E27}|Core\\Core.csproj|solutionrelative:core\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\dtos\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\extensions\\claimsprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\extensions\\claimsprincipleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\infrastructure\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2CEA22-DBF8-41C1-B9AB-7C100FA75E27}|Core\\Core.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2CEA22-DBF8-41C1-B9AB-7C100FA75E27}|Core\\Core.csproj|solutionrelative:core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\controllers\\buggycontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF2CEA22-DBF8-41C1-B9AB-7C100FA75E27}|Core\\Core.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\core\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF2CEA22-DBF8-41C1-B9AB-7C100FA75E27}|Core\\Core.csproj|solutionrelative:core\\entities\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF2CEA22-DBF8-41C1-B9AB-7C100FA75E27}|Core\\Core.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\core\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,16 +71,8 @@
       "RelativeMoniker": "D:0:0:{DF2CEA22-DBF8-41C1-B9AB-7C100FA75E27}|Core\\Core.csproj|solutionrelative:core\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\controllers\\buggycontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0C17FA1-69FB-44BF-8375-669117E90E70}|API\\API.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,10 +153,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\infrastructure\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\storecontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|c:\\users\\chann\\onedrive\\bureau\\work\\dotnet\\skinet\\infrastructure\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{343E1ABB-A4C8-4972-AB72-056598779528}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,7 +162,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,81 +170,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\CartController.cs",
-              "RelativeToolTip": "API\\Controllers\\CartController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwBwAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AddressMappingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Extensions\\AddressMappingExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\AddressMappingExtensions.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Extensions\\AddressMappingExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\AddressMappingExtensions.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T08:21:38.778Z",
+              "WhenOpened": "2026-11-04T14:36:16.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Services\\CartService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\CartService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\Address.cs",
+              "RelativeToolTip": "Core\\Entities\\Address.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T07:55:19.369Z"
+              "WhenOpened": "2026-11-04T09:42:49.217Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\ICartService.cs",
-              "RelativeDocumentMoniker": "Core\\Interfaces\\ICartService.cs",
-              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\ICartService.cs",
-              "RelativeToolTip": "Core\\Interfaces\\ICartService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwA0AAAAvAAAAAAAAAA==",
+              "Title": "ClaimsPrincipleExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Extensions\\ClaimsPrincipleExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\ClaimsPrincipleExtensions.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Extensions\\ClaimsPrincipleExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\ClaimsPrincipleExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBEAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T07:51:29.169Z"
+              "WhenOpened": "2026-11-03T15:43:26.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\CartItem.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\CartItem.cs",
-              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\CartItem.cs",
-              "RelativeToolTip": "Core\\Entities\\CartItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA0AAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowC4AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T07:42:04.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\ShoppingCart.cs",
-              "RelativeToolTip": "Core\\Entities\\ShoppingCart.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T07:38:50.341Z",
+              "WhenOpened": "2026-11-02T15:38:28.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Infrastructure.csproj",
               "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
               "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Infrastructure.csproj",
               "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-29T18:16:06.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -228,7 +244,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T15:20:37.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\DTOs\\AddressDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\AddressDto.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\DTOs\\AddressDto.cs",
+              "RelativeToolTip": "API\\DTOs\\AddressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T10:22:06.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Product.cs",
@@ -240,7 +281,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Data\\StoreContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\StoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T07:44:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Core\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:14:40.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\ShoppingCart.cs",
+              "RelativeToolTip": "Core\\Entities\\ShoppingCart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:38:50.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BuggyControllercs.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\BuggyControllercs.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BuggyControllercs.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\BuggyControllercs.cs",
+              "RelativeToolTip": "API\\Controllers\\BuggyControllercs.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:14:09.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Entities\\CartItem.cs",
+              "RelativeToolTip": "Core\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:42:04.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "API\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T15:36:18.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:51:29.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Services\\CartService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\CartService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T07:55:19.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "CreateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\DTOs\\CreateProductDto.cs",
               "RelativeDocumentMoniker": "API\\DTOs\\CreateProductDto.cs",
@@ -252,19 +389,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAiwBwAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "API\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-13T15:20:37.857Z"
+              "WhenOpened": "2026-10-30T08:21:38.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "ExceptionMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Middleware\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "API\\Middleware\\ExceptionMiddleware.cs",
@@ -276,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Data\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\GenericRepository.cs",
@@ -288,19 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BuggyControllercs.cs",
-              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\BuggyControllercs.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BuggyControllercs.cs",
-              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\BuggyControllercs.cs",
-              "RelativeToolTip": "API\\Controllers\\BuggyControllercs.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA0wB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-20T10:14:09.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Errors\\ApiResponse.cs",
               "RelativeDocumentMoniker": "API\\Errors\\ApiResponse.cs",
@@ -312,7 +437,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "API\\appsettings.Development.json",
@@ -324,19 +449,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\ISpecification.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\ISpecification.cs",
               "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\ISpecification.cs",
               "RelativeToolTip": "Core\\Interfaces\\ISpecification.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T10:37:26.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ApiException.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Errors\\ApiException.cs",
               "RelativeDocumentMoniker": "API\\Errors\\ApiException.cs",
@@ -348,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "BaseSpecification.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Specifications\\BaseSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
@@ -360,19 +485,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "BaseApiController.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BaseApiController.cs",
               "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\BaseApiController.cs",
               "RelativeToolTip": "API\\Controllers\\BaseApiController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwBEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T13:21:28.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
@@ -384,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "ProductSpecParams.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Specifications\\ProductSpecParams.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecParams.cs",
@@ -396,31 +521,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "ProductSpecification.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Specifications\\ProductSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\ProductSpecification.cs",
               "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Specifications\\ProductSpecification.cs",
               "RelativeToolTip": "Core\\Specifications\\ProductSpecification.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAwAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAwAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-18T08:01:50.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IGenericRepository.cs",
               "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\IGenericRepository.cs",
               "RelativeToolTip": "Core\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA5wBkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wBkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T07:07:17.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "Pagination.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\API\\RequestHelpers\\Pagination.cs",
               "RelativeDocumentMoniker": "API\\RequestHelpers\\Pagination.cs",
@@ -432,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Data\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\ProductRepository.cs",
@@ -444,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "SpecificationEvaluator.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Data\\SpecificationEvaluator.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\SpecificationEvaluator.cs",
@@ -456,19 +581,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "BrandListSpecification.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Specifications\\BrandListSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\BrandListSpecification.cs",
               "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Specifications\\BrandListSpecification.cs",
               "RelativeToolTip": "Core\\Specifications\\BrandListSpecification.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-18T14:57:34.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "TypeListSpecification.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Specifications\\TypeListSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\TypeListSpecification.cs",
@@ -480,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "StoreContextSeed.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Data\\StoreContextSeed.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContextSeed.cs",
@@ -492,19 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "StoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Data\\StoreContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreContext.cs",
-              "ToolTip": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Infrastructure\\Data\\StoreContext.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\StoreContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T07:44:14.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\chann\\OneDrive\\Bureau\\work\\dotnet\\skinet\\Core\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "Core\\Interfaces\\IProductRepository.cs",
