@@ -4,3 +4,15 @@
 .container {
   @apply mx-auto px-6;
 }
+
+.mat-mdc-snack-bar-container.snack-success {
+  --mat-snack-bar-container-color: #2e7d32;
+  --mat-snack-bar-supporting-text-color: white;
+  --mat-snack-bar-button-color: white;
+}
+
+.mat-mdc-snack-bar-container.snack-error {
+  --mat-snack-bar-container-color: #d32f2f;
+  --mat-snack-bar-supporting-text-color: white;
+  --mat-snack-bar-button-color: white;
+}
