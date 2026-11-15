@@ -154,6 +154,10 @@
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[3.4.20, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[53.1.0, )"
             }
           },
           "imports": [
